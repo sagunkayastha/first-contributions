@@ -18,6 +18,7 @@
 - [Aastha Aneja](https://github.com/Aashu24/first-contributions.git)
 - [Aravinth Natarajan](https://github.com/aravinth-itsme)
 - [Simon Tite](https://github.com/simontite-capita-ti)
+- [Sagun Kayastha] (https://github.com/sagunkayastha)
 - [Chris Winsor](https://github.com/cwinsor)
 - [ Dominic Valenciana](https://github.com/Kiricon)
 - [Aswin Sanakan](https://github.com/aswinsanakan)
